@@ -12,6 +12,8 @@ N/A
 
 Use the navigation bar on the top right of the page to learn more about Search Engine Optimization, Online Reputation Management, and Social Media Marketing. 
 
+You can find the website deployed at: kabuzo13.github.io/challenge-1
+
 ## Credits
 
 N/A

@@ -2,13 +2,7 @@
 
 ## Description
 
-It was necessary to refactor the HTML and CSS for this website to ensure that it would function perfectly as an informative website. This included correcting links to make sure they function, consolidating the CSS so it is easier to read for future developers, and adding 'alt' attributes to images to improve the accessibility and thus the SEO of the website. 
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
+It was necessary to refactor the HTML and CSS for this website to ensure it would function perfectly as an informative website. This included correcting links to make sure they function, consolidating the CSS so it is easier to read for future developers, and adding 'alt' attributes to images to improve the accessibility and thus the SEO of the website. 
 
 ## Installation
 

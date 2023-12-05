@@ -16,7 +16,7 @@ You can find the website deployed at: kabuzo13.github.io/challenge-1
 
 ## Credits
 
-N/A
+Used starter code from edX Boot Camps LLC
 
 ## License
 
